@@ -1,6 +1,6 @@
 # utility_seedvr2_video_upscale
 ComfyUI workflow Dockerized via [comfyui-wizard](https://comfy.getrunpod.io).
-Submission: https://comfy.getrunpod.io/dashboard/submissions/kd71rvwvtjbn6a89mg5vwwy3v18eqdb2
+Submission: https://comfy.getrunpod.io/dashboard/submissions/kd78d00cmjk3h3dqm6ntgh3vwd8eq4ha
 ## Build it yourself
 ```bash
 docker buildx build -t my-comfy-workflow .
